@@ -1,15 +1,9 @@
 <h1 align="center">🤖 Robótica</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Año-2026-blue?style=flat-square" alt="Año">
-  <img src="https://img.shields.io/badge/Materia-Tecnologías%20para%20la%20Automatización-orange?style=flat-square" alt="Materia">
-  <img src="https://img.shields.io/badge/Carrera-Ingeniería%20en%20Sistemas-green?style=flat-square" alt="Carrera">
-</p>
-
-<p align="center">
   <b>Presentación técnica de alta gama con enfoque en cinemática, matrices y aplicaciones industriales.</b>
   <br>
-  <i>Estructurado para la materia Tecnologías para la Automatización en 4to año de la carrera de Ingeniería en Sistemas en julio de 2026.</i>
+  <i>Estructurado para la materia Tecnologías para la Automatización en 4to año de la carrera de Ingeniería en Sistemas en Julio de 2026.</i>
 </p>
 
 <hr>
