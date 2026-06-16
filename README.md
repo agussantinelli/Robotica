@@ -9,7 +9,7 @@
 <p align="center">
   <b>Presentación técnica de alta gama con enfoque en cinemática, matrices y aplicaciones industriales.</b>
   <br>
-  <i>Estructurado para el 4to año de la carrera de Ingeniería en Sistemas.</i>
+  <i>Estructurado para la materia Tecnologías para la Automatización en 4to año de la carrera de Ingeniería en Sistemas.</i>
 </p>
 
 <hr>
