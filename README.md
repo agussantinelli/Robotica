@@ -69,10 +69,10 @@ git clone https://github.com/agussantinelli/Robotica.git
 
 <h3>📋 Requisitos</h3>
 
-<p>Para utilizar o generar las presentaciones, se requiere la biblioteca <code>python-pptx</code>. Puede instalarla ejecutando:</p>
+<p>Para utilizar o generar las presentaciones, se requieren las bibliotecas <code>python-pptx</code> y <code>python-docx</code>. Puede instalarlas ejecutando:</p>
 
 <pre align="left">
-pip install python-pptx
+pip install python-pptx python-docx
 </pre>
 
 <hr>
